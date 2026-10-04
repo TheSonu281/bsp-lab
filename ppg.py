@@ -78,7 +78,7 @@ pkpk=[]
 pkpk=np.mean(interval)
 fs=100
 duration=pkpk/fs
-print("Pulse duration=",duration,"seconds")
+print(f"Pulse duration = {duration} seconds")
 
 i=1/pkpk
 pulserate=i*fs*60
