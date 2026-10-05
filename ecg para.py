@@ -5,13 +5,6 @@ Created on Mon Aug 10 10:26:57 2026
 @author: mec
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 30 14:39:34 2026
-
-@author: mec
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 signal=np.loadtxt('C:/Users/mec/Documents/SONU SREYA/ECG normal.csv',delimiter=',')
